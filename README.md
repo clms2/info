@@ -42,5 +42,4 @@
 身材矮点不太胖最好，或者胖点在减也ok，然后不能是永远混日子的，上班摸鱼下班娱乐，节假日继续各种娱乐，偶尔放松没问题但生活方式如果一直是娱乐的话那人生也就一眼望穿了
 
 ### 附刚拍的照片
-
-![Image](https://gitee.com/hellowdz/arcs/raw/master/res/other/333.jpg)
+![Image](https://raw.githubusercontent.com/clms2/arcs/master/res/other/333.jpg)
