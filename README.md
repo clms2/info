@@ -34,7 +34,7 @@
     </tr>
     <tr>
         <td>个人资产：</td>
-        <td colspan="3">无房无车无负债，存款100w左右</td>
+        <td colspan="3">无车房负债，存款100w左右</td>
     </tr>
 </table>
 
